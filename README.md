@@ -1,7 +1,4 @@
 # Invoice_Extrator
-
-# Invoice_Extrator
-
 A Python-based project for extracting useful information from invoices using OCR and AI models.  
 This tool helps automate the process of reading invoices and converting them into structured data.
 
